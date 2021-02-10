@@ -42,7 +42,7 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 
 It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not.
 ### Performance Metric
--Log loss and confustion matrics
+- Log loss and confustion matrics
 
 
 
